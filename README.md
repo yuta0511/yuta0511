@@ -1,56 +1,17 @@
-<!-- ============================================================
-  GitHub Profile README for @yuta0511
-  [TODO: ...] と書かれた箇所は、ご自身の情報に差し替えてください。
-  Palette: Cyan #22D3EE / Purple #A855F7 / Base #0D1117
-============================================================= -->
+<!-- Palette: Cyan #22D3EE / Purple #A855F7 / Base #0D1117 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A855F7&height=180&section=header&text=yuta0511&fontColor=0D1117&fontSize=56&fontAlignY=40" alt="yuta0511 header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A855F7&height=200&section=header&text=yuta0511&fontColor=0D1117&fontSize=60&fontAlignY=40&animation=fadeIn" alt="yuta0511" width="100%" />
 
-### `[TODO: 短いキャッチコピー（例: 〇〇が好きなエンジニア）]`
+<a href="https://github.com/yuta0511"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=480&lines=Hello%2C+I'm+yuta0511+%F0%9F%91%8B;Code+%C2%B7+Learn+%C2%B7+Build;Welcome+to+my+GitHub!" alt="Hello, I'm yuta0511 — Code · Learn · Build" /></a>
+
+<br />
 
 <a href="https://github.com/yuta0511"><img src="https://img.shields.io/badge/GitHub-yuta0511-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0D1117&color=A855F7" alt="GitHub: yuta0511" /></a>
+<img src="https://img.shields.io/badge/On_GitHub_since-2021-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="On GitHub since 2021" />
 
 </div>
-
-<br />
-
-## 👋 About Me
-
-- 🧑‍💻 [TODO: 役割・肩書き（例: Webエンジニア / 学生 など）]
-- 🔭 [TODO: 現在取り組んでいること]
-- 💡 [TODO: 技術的に関心のある分野]
-- ⚡ [TODO: ひとこと・Fun fact]
-
-<br />
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<!-- 使用している技術を ?i= のカンマ区切りで追加してください。
-     利用可能なアイコン一覧: https://github.com/tandpfun/skill-icons#icons-list
-     例: ?i=ts,react,nextjs,python,docker,aws -->
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" />
-
-<sub>[TODO: 言語・フレームワーク・ツールのアイコンを追加]</sub>
-
-</div>
-
-<br />
-
-## 🚀 Featured Projects
-
-<!-- 公開リポジトリを作成したら、以下を実際のプロジェクトに差し替えてください。 -->
-
-> [!NOTE]
-> 公開プロジェクトは準備中です。
-
-- **[TODO: Project Name]** — [TODO: 一行説明]
-  <br />`[TODO: 使用技術]` · [TODO: リポジトリURL]
-- **[TODO: Project Name]** — [TODO: 一行説明]
-  <br />`[TODO: 使用技術]` · [TODO: リポジトリURL]
 
 <br />
 
@@ -66,30 +27,8 @@
 
 <br />
 
-## 🌱 Currently Learning / Goals
-
-- 📚 **Learning:** [TODO: 学習中の技術]
-- 🎯 **Goal:** [TODO: 今年の目標]
-- 🤝 **Open to:** [TODO: 興味のあるコラボレーションや機会]
-
-<br />
-
-## 📫 Contact / Social Links
-
 <div align="center">
 
-<a href="https://github.com/yuta0511"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-<!-- [TODO: 公開したいリンクのみ追加してください]
-<a href="https://x.com/YOUR_ID"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=A855F7" alt="X" /></a>
-<a href="https://zenn.dev/YOUR_ID"><img src="https://img.shields.io/badge/Zenn-0D1117?style=for-the-badge&logo=zenn&logoColor=22D3EE" alt="Zenn" /></a>
-<a href="https://qiita.com/YOUR_ID"><img src="https://img.shields.io/badge/Qiita-0D1117?style=for-the-badge&logo=qiita&logoColor=A855F7" alt="Qiita" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
--->
-
-<sub>[TODO: X / Zenn / Qiita / Email など公開したい連絡先]</sub>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:22D3EE&height=100&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:22D3EE&height=100&section=footer" alt="" width="100%" />
 
 </div>
