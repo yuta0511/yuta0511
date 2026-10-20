@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-label="Terminal: whoami yuta0511">
+<defs>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#A855F7"/>
+  </linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<style>
+  .mono { font: 500 20px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; white-space: pre; }
+  @keyframes c0 { 0%,3.75% { transform: translateX(0); } 7.87%,96% { transform: translateX(113px); } 100% { transform: translateX(0); } }.c0 { animation: c0 16.0s steps(6) infinite; }@keyframes l0 { 0%,3.69% { opacity: 0; } 3.75%,96% { opacity: 1; } 100% { opacity: 0; } }.l0 { animation: l0 16.0s linear infinite; }@keyframes o00 { 0%,10.00% { opacity: 0; transform: translateX(-8px); } 11.94%,96% { opacity: 1; transform: translateX(0); } 100% { opacity: 0; } }.o00 { animation: o00 16.0s ease-out infinite; }@keyframes c1 { 0%,15.69% { transform: translateX(0); } 24.31%,96% { transform: translateX(272px); } 100% { transform: translateX(0); } }.c1 { animation: c1 16.0s steps(18) infinite; }@keyframes l1 { 0%,15.62% { opacity: 0; } 15.69%,96% { opacity: 1; } 100% { opacity: 0; } }.l1 { animation: l1 16.0s linear infinite; }@keyframes o10 { 0%,26.44% { opacity: 0; transform: translateX(-8px); } 28.38%,96% { opacity: 1; transform: translateX(0); } 100% { opacity: 0; } }.o10 { animation: o10 16.0s ease-out infinite; }@keyframes c2 { 0%,32.12% { transform: translateX(0); } 39.63%,96% { transform: translateX(232px); } 100% { transform: translateX(0); } }.c2 { animation: c2 16.0s steps(15) infinite; }@keyframes l2 { 0%,32.06% { opacity: 0; } 32.12%,96% { opacity: 1; } 100% { opacity: 0; } }.l2 { animation: l2 16.0s linear infinite; }@keyframes o20 { 0%,41.75% { opacity: 0; transform: translateX(-8px); } 43.69%,96% { opacity: 1; transform: translateX(0); } 100% { opacity: 0; } }.o20 { animation: o20 16.0s ease-out infinite; }@keyframes c3 { 0%,47.44% { transform: translateX(0); } 53.44%,96% { transform: translateX(179px); } 100% { transform: translateX(0); } }.c3 { animation: c3 16.0s steps(11) infinite; }@keyframes l3 { 0%,47.38% { opacity: 0; } 47.44%,96% { opacity: 1; } 100% { opacity: 0; } }.l3 { animation: l3 16.0s linear infinite; }@keyframes o30 { 0%,55.56% { opacity: 0; transform: translateX(-8px); } 57.50%,96% { opacity: 1; transform: translateX(0); } 100% { opacity: 0; } }.o30 { animation: o30 16.0s ease-out infinite; }@keyframes cur { 0%,61.19% { opacity: 0; } 61.25%,96% { opacity: 1; } 100% { opacity: 0; } }
+  .curg { animation: cur 16.0s linear infinite; }
+  .cursor { fill: #22D3EE; animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .border { stroke-dasharray: 160 40; animation: dash 6s linear infinite; }
+  @keyframes dash { to { stroke-dashoffset: -400; } }
+  .scan { animation: scan 4s linear infinite; }
+  @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(400px); } }
+</style>
+<rect x="2" y="2" width="896" height="396" rx="14" fill="#0B0F17"/>
+<rect x="2" y="2" width="896" height="396" rx="14" fill="none" stroke="url(#bd)" stroke-opacity=".25" stroke-width="2"/>
+<rect class="border" x="2" y="2" width="896" height="396" rx="14" fill="none" stroke="url(#bd)" stroke-width="2"/>
+<path d="M2 16a14 14 0 0 1 14-14h868a14 14 0 0 1 14 14v28H2z" fill="#161B22"/>
+<circle cx="30" cy="23" r="7" fill="#FF5F56"/><circle cx="54" cy="23" r="7" fill="#FFBD2E"/><circle cx="78" cy="23" r="7" fill="#27C93F"/>
+<text x="450.0" y="29" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#8B949E">yuta0511@github: ~</text>
+<g class="l0"><text x="40" y="92" class="mono"><tspan fill="#A855F7">❯</tspan> <tspan fill="#22D3EE">~</tspan> <tspan fill="#E6EDF3">whoami</tspan></text><rect class="c0" x="82" y="72" width="113" height="28" fill="#0B0F17"/></g><text class="mono o00" x="62" y="122" fill="#22D3EE">yuta0511</text><g class="l1"><text x="40" y="160" class="mono"><tspan fill="#A855F7">❯</tspan> <tspan fill="#22D3EE">~</tspan> <tspan fill="#E6EDF3">cat ./profile.json</tspan></text><rect class="c1" x="82" y="140" width="272" height="28" fill="#0B0F17"/></g><text class="mono o10" x="62" y="190" fill="#C9D1D9">{ &quot;theme&quot;: &quot;dark&quot;, &quot;accent&quot;: [&quot;cyan&quot;, &quot;purple&quot;] }</text><g class="l2"><text x="40" y="228" class="mono"><tspan fill="#A855F7">❯</tspan> <tspan fill="#22D3EE">~</tspan> <tspan fill="#E6EDF3">uptime --github</tspan></text><rect class="c2" x="82" y="208" width="232" height="28" fill="#0B0F17"/></g><text class="mono o20" x="62" y="258" fill="#A855F7">up since 2021 · still committing</text><g class="l3"><text x="40" y="296" class="mono"><tspan fill="#A855F7">❯</tspan> <tspan fill="#22D3EE">~</tspan> <tspan fill="#E6EDF3">echo $MOTTO</tspan></text><rect class="c3" x="82" y="276" width="179" height="28" fill="#0B0F17"/></g><text class="mono o30" x="62" y="326" fill="#22D3EE">Code · Learn · Build</text>
+<g class="curg"><text x="40" y="364" class="mono"><tspan fill="#A855F7">❯</tspan> <tspan fill="#22D3EE">~</tspan></text>
+<rect class="cursor" x="82" y="346" width="11" height="22"/></g>
+<rect class="scan" x="2" y="0" width="896" height="40" fill="url(#bar)" opacity=".06"/>
+</svg>
